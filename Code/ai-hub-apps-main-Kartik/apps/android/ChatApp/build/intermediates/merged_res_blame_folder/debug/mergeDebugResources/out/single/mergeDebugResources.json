@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_quiz_history.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_quiz_history.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_background.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_background.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_create_flashcard_set.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_create_flashcard_set.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_item_chat_history.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/item_chat_history.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_home.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_item_gem.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/item_gem.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_bot_response.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/bot_response.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_chat.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_chat.xml"
+    },
+    {
+        "merged": "com.quicinc.chatapp.ChatApp-debug-31:/layout_chat_with_drawer.xml.flat",
+        "source": "com.quicinc.chatapp.ChatApp-main-33:/layout/chat_with_drawer.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_item_flashcard_set.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/item_flashcard_set.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_flashcard_study.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_flashcard_study.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_card.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_card.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_login.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_create_gem.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_create_gem.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_main.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.quicinc.chatapp.ChatApp-debug-31:/layout_nav_drawer_content.xml.flat",
+        "source": "com.quicinc.chatapp.ChatApp-main-33:/layout/nav_drawer_content.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_user_input.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/user_input.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_quiz.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_chat.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_chat.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_image.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_image.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_text_rounded_corner.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/text_rounded_corner.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_register.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_button.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_button.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_flashcard.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_flashcard.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_pdf.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_pdf.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_quiz.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_quiz.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/menu_drawer_menu.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_pdf.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_pdf.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/menu_home_menu.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/menu/home_menu.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_quiz.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_quiz.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_button.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_button.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_nav_header.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_flashcard_pdf_generator.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_flashcard_pdf_generator.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_item_flashcard_input.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/item_flashcard_input.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_activity_quiz_detail.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/activity_quiz_detail.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_chat_with_drawer.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/chat_with_drawer.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/drawable_gradient_dark_image.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/drawable/gradient_dark_image.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_chat_row.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/chat_row.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_item_quiz_result.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/item_quiz_result.xml"
+    },
+    {
+        "merged": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-debug-31:/layout_chat.xml.flat",
+        "source": "/home/asus/.gradle/daemon/8.11.1/com.quicinc.chatapp.ChatApp-main-33:/layout/chat.xml"
+    }
+]
